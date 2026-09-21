@@ -13,9 +13,13 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 a=int(input())
+
 if a%2==0:
+
     print("EVEN")
+    
 else:
+
     print("ODD")
 ## Output
 <img width="663" height="364" alt="WhatsApp Image 2026-09-21 at 10 25 27 AM" src="https://github.com/user-attachments/assets/fadef9fc-391c-4c98-813b-d0bf5c25455c" />
