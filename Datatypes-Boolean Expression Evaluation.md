@@ -15,7 +15,18 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+a=int(input())
+
+if a%2==0:
+
+    print("EVEN")
+    
+else:
+
+    print("ODD"
 
 ## Output
+<img width="663" height="364" alt="WhatsApp Image 2026-09-21 at 10 25 27 AM" src="https://github.com/user-attachments/assets/4c793d36-adea-4edb-9802-d1fd584b38fb" />
+
 ## Result
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully
